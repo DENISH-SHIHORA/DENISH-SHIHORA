@@ -18,16 +18,16 @@
 
 - 🌱 Currently learning:
 
-   -Advanced Data Analytics
-   -Machine Learning
-   -Big Data Technologies
+   - Advanced Data Analytics
+   - Machine Learning
+   - Big Data Technologies
 
 - 👯 Looking to collaborate on:
 
-   -Data Analytics Projects
-   -Python Projects
-   -Dashboard Development
-   -Open Source Contributions
+   - Data Analytics Projects
+   - Python Projects
+   - Dashboard Development
+   - Open Source Contributions
   
 - 👨‍💻 All of my projects are available at my GitHub Profile
 
