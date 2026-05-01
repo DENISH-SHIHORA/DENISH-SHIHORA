@@ -33,6 +33,9 @@
 
 - 📫 How to reach me **dgshihora111@gmail.com**
 
+- ⚡ Fun Fact:
+  
+   - I love gaming 🎮 and exploring tech content on YouTube 📺
 
 ## 🚀 Languages & Tools :
 <br>
