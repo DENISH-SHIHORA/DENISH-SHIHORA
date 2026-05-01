@@ -44,7 +44,7 @@
 
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48">
   </a>
 
   <!-- R -->
