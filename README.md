@@ -1,20 +1,38 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Denish</h1>
-<h3 align="center">I'm a Data Engineer.</h3>
+<h3 align="center">I'm a Data Analyst</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
-- 🔭 I am currently studying in MSc. Web and Data Science at **[University Koblenz](https://www.uni-koblenz-landau.de/de)**
+- 🎓 Pursuing MSc in Web & Data Science at **[University Koblenz](https://www.uni-koblenz-landau.de/de)**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 📊 Passionate about:
 
-- 👯 I’m looking to collaborate on **Python project**
+   - Data Analytics
+   - Business Intelligence
+   - Data Visualization
+   - Machine Learning
+   - Data Engineering
 
-- 👨‍💻 All of my projects are available at My GitHub Profile
+- 💡 I enjoy transforming raw data into meaningful insights and interactive dashboards.
+
+- 🌱 Currently learning:
+
+   -Advanced Data Analytics
+   -Machine Learning
+   -Big Data Technologies
+
+- 👯 Looking to collaborate on:
+
+   -Data Analytics Projects
+   -Python Projects
+   -Dashboard Development
+   -Open Source Contributions
+  
+- 👨‍💻 All of my projects are available at my GitHub Profile
 
 - 📫 How to reach me **dgshihora111@gmail.com**
 
-- ⚡ Fun fact **I play games and watch YouTube videos.**
 
 ## 🚀 Languages & Tools :
 <br>
